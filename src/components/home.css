@@ -518,12 +518,12 @@ margin-left: 40%;
   gap: 50px;
   flex-direction: column;
   margin-left: 1%;
-  width: 70%;
+  width: 90%;
 }
 
 /* LEFT SIDE */
 .hero-text {
-  width: 70%;
+  width: 90%;
   margin-left: 0%;
   font-size: 20px;
 }
@@ -578,7 +578,7 @@ h2{
 
 
 .smartmatch-section {
- width: 50%;
+ width: 100%;
   align-items: center;
    padding:0 0 0 0;
 
