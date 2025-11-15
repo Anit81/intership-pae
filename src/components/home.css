@@ -575,7 +575,7 @@ h2{
 
 
 .smartmatch-section {
- width: 100%;
+ width: 60%;
   align-items: center;
    padding:0 0 0 0;
 
@@ -586,10 +586,10 @@ h2{
   
 }
 .intro{
-  width: 100%;
+  width: 70%;
 }
 .smartMatch{
-  text-align: center;
+  
   margin-left: 12px;
   margin-right: 0;
   
