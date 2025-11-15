@@ -39,7 +39,6 @@ body {
   font-size: 28px;
   cursor: pointer;
   z-index: 2000;
-  color: black;
 }
 
 
@@ -48,6 +47,7 @@ body {
   /* show hamburger */
   .menu-icon {
     display: block;
+    color:back;
     z-index: 3000;
   }
 
@@ -55,8 +55,8 @@ body {
   .nav-links {
     position: absolute;
     top: 80px;
-    right: 0;
-    background: white;
+    right: 20px;
+    background: blue;
     width: 100%;
 
     flex-direction: column;
