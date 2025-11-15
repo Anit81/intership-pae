@@ -1,5 +1,6 @@
 *{
-  overflow-x: hidden;
+  margin:0;
+  box-sizing: border-box;
 }
 .hero-section {
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
