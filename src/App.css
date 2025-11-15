@@ -9,7 +9,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 15px 0px;
+  padding: 15px 50px;
   background-color: #fff;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   z-index: 1000;
@@ -25,6 +25,12 @@ body {
   display: flex;
   gap: 40px;
   margin-right: 10%;
+}
+.nav-links a{
+  text-decoration:none;
+}
+.nav-links a::active{
+  color:blue;
 }
 
 .menu-icon {
@@ -66,7 +72,6 @@ body {
     width: 100%;
     padding: 15px 0;
     text-align: center;
-    text-decoration:none;
     color:white;
     border-bottom: 1px solid #eee;
   }
