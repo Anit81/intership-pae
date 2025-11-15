@@ -9,8 +9,6 @@
   padding: 70px 100px;
   gap: 40px;
 }
-
-/* LEFT SIDE */
 .hero-text {
   width: 50%;
 }
@@ -65,10 +63,10 @@
   cursor: pointer;
 }
 
-/* RIGHT IMAGE SECTION */
+
 .hero-image {
   width: 600px;
-  position: relative; /* IMPORTANT for floating cards */
+  position: relative; 
 }
 
 .dashboard-img {
@@ -77,14 +75,13 @@
   border-radius: 12px;
 }
 
-/* FLOATING CARDS */
 .floating {
   position: absolute;
   width: 180px;
   height: 100px;
 }
 
-/* EXACT POSITION MATCH */
+
 .top-left {
   top: -25px;
   left: -20px;
@@ -390,7 +387,7 @@ h5{
   flex-direction: column;
 }
 
-/* LEFT SIDE */
+
 .hero-text {
   width: 100%;
 }
@@ -689,7 +686,7 @@ h4{
   width: 10%;
 }
 .image-animation{
-  grid-template-columns: 250px 250px;
+  grid-template-columns: 300px 300px;
 }.image-animation p{
 margin-left: 40%;
 }
