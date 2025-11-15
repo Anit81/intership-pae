@@ -30,7 +30,7 @@ body {
   text-decoration:none;
   color:white;
 }
-.nav-links::active{
+.nav-links a::active{
   color:blue;
 }
 
