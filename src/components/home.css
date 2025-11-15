@@ -1,5 +1,5 @@
 *{
-  overflow-x: hiden;
+  overflow-x: hidden;
 }
 .hero-section {
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -517,12 +517,12 @@ margin-left: 40%;
   gap: 50px;
   flex-direction: column;
   margin-left: 1%;
-  width: 90%;
+  width: 70%;
 }
 
 /* LEFT SIDE */
 .hero-text {
-  width: 90%;
+  width: 70%;
   margin-left: 0%;
   font-size: 20px;
 }
