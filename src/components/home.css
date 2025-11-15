@@ -689,7 +689,7 @@ h4{
   width: 10%;
 }
 .image-animation{
-  grid-template-columns: 300px 300px;
+  grid-template-columns: 150px 1500px;
 }.image-animation p{
 margin-left: 40%;
 }
