@@ -28,9 +28,9 @@ body {
 }
 .nav-links a{
   text-decoration:none;
-  color:white;
+  color:black;
 }
-.nav-links a::active{
+.nav-links ::active{
   color:blue;
 }
 
