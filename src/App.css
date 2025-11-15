@@ -47,8 +47,8 @@ body {
   /* show hamburger */
   .menu-icon {
     display: block;
-    color:back;
-    z-index: 3000;
+    color:black;
+    z-index:3000
   }
 
   
