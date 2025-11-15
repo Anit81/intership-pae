@@ -48,9 +48,12 @@ body {
   .menu-icon {
     display: block;
     color:black;
-    z-index:3000
+    
   }
-
+.navbar{
+  justify-content: center;
+  padding:15px 0px;
+}
   
   .nav-links {
     position: absolute;
