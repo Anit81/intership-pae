@@ -514,13 +514,13 @@ margin-left: 40%;
   padding: 55px 1px;
   gap: 50px;
   flex-direction: column;
-  margin-left: -9px;
+  margin-left: -16px;
   width: 100%;
 }
 
 /* LEFT SIDE */
 .hero-text {
-  width: 90%;
+  width: 70%;
   margin-left: 0%;
   font-size: 20px;
 }
@@ -587,11 +587,11 @@ h2{
 }
 .intro{
   width: 90%;
-  margin-left:15px;
+  margin-left:20px;
 }
 .smartMatch{
   
-  margin-left: 12px;
+  margin-left: 7px;
   margin-right: 0;
   
 }
